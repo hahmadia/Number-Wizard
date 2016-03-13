@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\Unity Projects\Block Breaker\Assets\Scripts\MusicPlayer.cs">
+    <Files>
+      <File FileName="..\..\Unity Projects\Block Breaker\Assets\Scripts\MouseKeyboard.cs" Line="11" Column="3" />
+      <File FileName="..\..\Unity Projects\Block Breaker\Assets\Scripts\Paddle.cs" Line="43" Column="21" />
+      <File FileName="..\..\Unity Projects\Block Breaker\Assets\Scripts\Ball.cs" Line="100" Column="64" />
+      <File FileName="..\..\Unity Projects\Block Breaker\Assets\Scripts\MusicPlayer.cs" Line="33" Column="19" />
+      <File FileName="..\..\Unity Projects\Block Breaker\Assets\Scripts\Brick.cs" Line="70" Column="72" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
